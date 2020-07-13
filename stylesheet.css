@@ -376,8 +376,7 @@ a:nth-child(4){
   color:#0e76a8;
 }
 /*=====================================To animate portfolo-menu/services/price================= */
-
-/*.portfolo-menu{
+.portfolo-menu{
 	opacity:0;
 }
 .portfolo-menu .animated{
@@ -394,7 +393,7 @@ a:nth-child(4){
 }
 .card .animated{
 	opacity:1;
-}*/
+}
 /* ===============================media queries================================= */
 @media only screen and (max-width: 600px) {
 	
