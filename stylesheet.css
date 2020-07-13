@@ -70,6 +70,9 @@ h2{
 	padding-bottom:40px;
 	z-index:-1;
 }
+.infy{
+	animation-iteration-count: infinite;
+}
 
 /*======================================Change Contant In Main(h1)===========================*/
 /*.change_content:after{
