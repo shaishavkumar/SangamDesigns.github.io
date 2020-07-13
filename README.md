@@ -1,1 +1,1 @@
-# SangamDesigns.github.io
+# sangamdesigns.github.io
