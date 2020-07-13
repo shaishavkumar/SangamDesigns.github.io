@@ -72,7 +72,7 @@ h2{
 }
 
 /*======================================Change Contant In Main(h1)===========================*/
-.change_content:after{
+/*.change_content:after{
 content: "";
 animation: changetext 15s infinite linear;
 }
@@ -83,7 +83,7 @@ animation: changetext 15s infinite linear;
   60%{content:"Websites";}
   80%{content:"Posters";}
   100%{content:"Banners";}
-}
+} */
 /* ===============================main body(buttons)================================= */
 .main-button .button{
 	border:1px solid #fff;
